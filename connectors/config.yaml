@@ -1,0 +1,7 @@
+connectors:
+-
+  connector_id: "_kgYDpEB5CDjbMy_Mm51"
+  service_type: "box"
+elasticsearch:
+  host: "https://9ff08725-d32f-46c8-8ac0-149554f7a8f3.0135ec03d5bf43b196433793c98e8bd5.databases.appdomain.cloud:32344"
+  api_key: "XzBnWURwRUI1Q0RqYk15X2NXN3g6eFRIU2NZS2FUaktmR241LTF6bTJfUQ=="
